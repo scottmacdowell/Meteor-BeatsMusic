@@ -1,0 +1,8 @@
+{
+  "name": "BeatsMusic",
+  "description": "Beats Music OAuth flow package (to be used in conjunction with the 'accounts-beatsmusic' package.)",
+  "homepage": "https://github.com/scottmacdowell/Meteor-BeatsMusic",
+  "author": "Scott MacDowell <scottymacdowell@gmail.com>",
+  "version": "0.0.1",
+  "git": "Meteor-BeatsMusic.git"
+}
