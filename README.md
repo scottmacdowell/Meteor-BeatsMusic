@@ -14,6 +14,6 @@ Beats Music OAuth flow package (to be used in conjunction with accounts-beatsmus
 
 ### Credits
 Inspiration from the github package by [@Jabbslad](https://github.com/Jabbslad/accounts-github)
-and the Instagram package by [@bjryan2](https://github.com/bjryan2/Meteor-Instragram/)]
+and the Instagram package by [@bjryan2](https://github.com/bjryan2/Meteor-Instragram/)
 
  
