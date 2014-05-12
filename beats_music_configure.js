@@ -1,8 +1,8 @@
-Template.configureLoginServiceDialogForBeatsmusic.siteUrl = function () {
+Template.configureLoginServiceDialogForBeats_music.siteUrl = function () {
   return Meteor.absoluteUrl({replaceLocalhost: true});
 };
 
-Template.configureLoginServiceDialogForBeatsmusic.fields = function () {
+Template.configureLoginServiceDialogForBeats_music.fields = function () {
   	return [
         {property: 'clientId', label: 'Client Id'},
         {property: 'secret', label: 'Client Secret'},
